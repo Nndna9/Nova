@@ -1,0 +1,7 @@
+streamlit>=1.25.0
+pandas>=1.5.0
+numpy
+plotly
+altair
+scikit-learn
+openpyxl
